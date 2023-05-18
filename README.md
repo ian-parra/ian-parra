@@ -1,9 +1,9 @@
 
-<p align="center"><img align="center" height="400px" width="400px" src="https://dev-items.s3.ap-south-1.amazonaws.com/flame-remote-working.gif"/></p>
+<p align="center"><img align="center" height="300px" width="300px" src="https://dev-items.s3.ap-south-1.amazonaws.com/flame-remote-working.gif"/></p>
 <p align="center"> 
 
 ### Hi there 👋
-<img src="https://media.tenor.com/stmRA2CsDPgAAAAM/gon-hx-h.gif" width="50"></h2>
+<img src="https://media.tenor.com/stmRA2CsDPgAAAAM/gon-hx-h.gif" width="200"></h2>
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
