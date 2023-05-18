@@ -4,7 +4,7 @@
 ### Hi there 👋
 
 
- <h3 align="left">Conectate conmigo:</h3>
+ <h3 align="left">Connect with me:</h3>
 <p align="left">
  
 <a href="https://github.com/ian-parra" target="blank"><img alt="GitHub" src="https://img.shields.io/badge/github-181717?&style=for-the-badge&logo=github&logoColor=white"/></a>
