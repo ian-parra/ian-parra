@@ -24,7 +24,7 @@
  
 <br/>
   
-<a href="https://github-readme-activity-graph.cyclic.app/graph?username=umangbhalodiya&theme=dracula"><img alt="Ian Ezequiel Parra Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ianparra&theme=react-dark&hide_border=true&area=true" /></a>
+<a href="https://github-readme-activity-graph.cyclic.app/graph?username=ian-parra&theme=dracula"><img alt="Ian Ezequiel Parra Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Ianparra&theme=react-dark&hide_border=true&area=true" /></a>
 
 <br/>
 
