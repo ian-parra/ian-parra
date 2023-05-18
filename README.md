@@ -5,7 +5,7 @@
 ### Hi there 👋
 
 
-<p height="200px" width="200px" src="https://dev-items.s3.ap-south-1.amazonaws.com/cyborg-18+(1).gif"/></p>
+<p  align="center"><img align="center"height="200px" width="200px" src="https://dev-items.s3.ap-south-1.amazonaws.com/cyborg-18+(1).gif"/></p>
 <!-- <p align="center"><img align="center" alt="cv" src="https://dev-items.s3.ap-south-1.amazonaws.com/umng.jpg" /></p> -->
 
  <h3 align="left">Connect with me:</h3>
