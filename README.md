@@ -30,4 +30,4 @@
 
 
 
-<h2><img src="https://media.tenor.com/stmRA2CsDPgAAAAM/gon-hx-h.gif" width="200"></h2>
+<h2><img src="https://media.tenor.com/stmRA2CsDPgAAAAM/gon-hx-h.gif" align="center"><img align="center"height="200px" width="200px"></h2>
