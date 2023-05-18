@@ -3,7 +3,10 @@
 <p align="center"> 
 
 ### Hi there 👋
-<h2><img src="https://media.tenor.com/stmRA2CsDPgAAAAM/gon-hx-h.gif" width="200"></h2>
+
+
+<p height="200px" width="200px" src="https://dev-items.s3.ap-south-1.amazonaws.com/cyborg-18+(1).gif"/></p>
+<!-- <p align="center"><img align="center" alt="cv" src="https://dev-items.s3.ap-south-1.amazonaws.com/umng.jpg" /></p> -->
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,5 +29,5 @@
 
 
 
-<p align="center"><img align="center" height="250px" width="250px" src="https://dev-items.s3.ap-south-1.amazonaws.com/cyborg-18+(1).gif"/></p>
-<!-- <p align="center"><img align="center" alt="cv" src="https://dev-items.s3.ap-south-1.amazonaws.com/umng.jpg" /></p> -->
+
+<h2><img src="https://media.tenor.com/stmRA2CsDPgAAAAM/gon-hx-h.gif" width="200"></h2>
