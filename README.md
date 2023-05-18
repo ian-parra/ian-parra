@@ -2,7 +2,7 @@
 <p align="center"><img align="center" height="400px" width="400px" src="https://dev-items.s3.ap-south-1.amazonaws.com/flame-remote-working.gif"/></p>
 <p align="center"> 
 
-### Hi there 👋
+### Hello everyone, I'm Ian Ezequiel Parra!
 
 
 <p  align="center"><img align="center"height="200px" width="200px" src="https://dev-items.s3.ap-south-1.amazonaws.com/cyborg-18+(1).gif"/></p>
